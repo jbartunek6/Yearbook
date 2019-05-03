@@ -21,6 +21,6 @@ public class Main2Activity extends AppCompatActivity {
         webview.getSettings().setJavaScriptEnabled(true);
         webview.getSettings().setDomStorageEnabled(true);
         webview.setOverScrollMode(WebView.OVER_SCROLL_NEVER);
-        webview.loadUrl("https://www.google.com");
+        webview.loadUrl("https://www.youtube.com");
     }
 }
